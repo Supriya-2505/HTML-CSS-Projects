@@ -20,7 +20,7 @@ Converts currency values dynamically
 Implements DOM manipulation and logic control
 Includes multiple JavaScript versions for learning
 
-🧰 Technologies Used
+## 🧰 Technologies Used
 
 HTML5 – Web page structure
 
