@@ -28,7 +28,7 @@ CSS3 – Styling and layout
 
 JavaScript (ES6) – Interactivity and logic
 
-▶️ How to Run
+## ▶️ How to Run
 
 Clone the repository:
 
@@ -39,7 +39,7 @@ Open any .html file directly in your web browser.
 
 ✔️ No setup or installation required.
 
-🎯 Purpose
+## 🎯 Purpose
 
 Strengthen frontend fundamentals
 
@@ -49,7 +49,7 @@ Build mini projects for portfolio
 
 Prepare for interviews and internships
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Improve UI/UX design
 
