@@ -64,4 +64,4 @@ Deploy using GitHub Pages
 Supriya K
 Aspiring Frontend Developer
 
-⭐ If you find this repository useful, consider starring it!
+⭐ If you find this repository useful, consider starring it !
