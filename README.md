@@ -55,7 +55,7 @@ Improve UI/UX design
 
 Make projects responsive
 
-Add validations and error handling
+Add validation and error handling
 
 Deploy using GitHub Pages
 
