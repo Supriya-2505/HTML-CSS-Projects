@@ -3,7 +3,7 @@
 This repository contains a set of beginner-friendly frontend mini projects created to practice and strengthen core web development concepts using HTML, CSS, and JavaScript.
  
 ## 🚀 Projects Included   
-
+ 
 🔹 BMI Calculator 
 Calculates Body Mass Index using height and weight   
 Displays health category instantly
