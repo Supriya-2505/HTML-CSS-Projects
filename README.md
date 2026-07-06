@@ -11,7 +11,7 @@ Focuses on form handling and conditional logic
 
 🔹 Calculator 
 Performs basic arithmetic operations
-Simple and user-friendly interface
+Simple and user-friendly interface 
 Demonstrates JavaScript event handling
 
 🔹 Currency Converter
