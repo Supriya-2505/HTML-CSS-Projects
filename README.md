@@ -15,7 +15,7 @@ Simple and user-friendly interface
 Demonstrates JavaScript event handling
 
 🔹 Currency Converter
-
+ 
 Converts currency values dynamically
 Implements DOM manipulation and logic control
 Includes multiple JavaScript versions for learning
