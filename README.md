@@ -6,7 +6,7 @@ This repository contains a set of beginner-friendly frontend mini projects creat
    
 🔹 BMI Calculator  
 Calculates Body Mass Index using height and weight    
-Displays health category instantly 
+Displays health category instantly  
 Focuses on form handling and conditional logic  
 
 🔹 Calculator 
