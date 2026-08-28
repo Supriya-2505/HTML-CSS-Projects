@@ -1,6 +1,6 @@
 ## Frontend Mini Projects (HTML, CSS & JavaScript)
  
-This repository contains a set of beginner-friendly frontend mini projects created to practice and strengthen core web development concepts using HTML, CSS, and JavaScript.
+This repository contains a set of beginner-friendly frontend mini projects created to practice and strengthen core web development concepts using HTML, CSS, and JavaScript.  
    
 ## 🚀 Projects Included    
      
