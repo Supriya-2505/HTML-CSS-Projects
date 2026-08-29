@@ -9,7 +9,7 @@ Calculates Body Mass Index using height and weight
 Displays health category instantly  
 Focuses on form handling and conditional logic  
 
-🔹 Calculator 
+🔹 Calculator  
 Performs basic arithmetic operations
 Simple and user-friendly interface 
 Demonstrates JavaScript event handling
